@@ -1,0 +1,29 @@
+.footer {
+  background-color: var(--dark-color);
+
+  &__container {
+    row-gap: 2rem;
+  }
+
+  &__title {
+    color: var(--white-color);
+    margin-bottom: var(--mb-1);
+  }
+
+  &__link {
+    padding: 0.25rem 0;
+  }
+
+  &__link:hover {
+    color: var(--primary-color);
+  }
+
+  &__social {
+    font-size: 1.4rem;
+    margin-right: var(--mb-1);
+  }
+
+  &__social:hover {
+    color: var(--primary-color);
+  }
+}

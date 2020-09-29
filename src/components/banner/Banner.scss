@@ -1,0 +1,43 @@
+.home {
+  position: relative;
+  background-color: var(--primary-color);
+  overflow: hidden;
+  &__dot {
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+    background-color: var(--white-color);
+    display: inline-block;
+  }
+
+  &__container {
+    height: calc(100vh - var(--header-height));
+    row-gap: 5rem;
+  }
+
+  &__title {
+    align-self: flex-end;
+    font-size: var(--big-font-size);
+    color: var(--white-color);
+    line-height: 0.8;
+  }
+  &__title span {
+    text-shadow: 0 20px 25px rgba(0, 0, 0, 0.5);
+  }
+
+  &__scroll-link {
+    writing-mode: vertical-lr;
+    transform: rotate(-180deg);
+    color: var(--white-color);
+    font-size: 20px;
+  }
+
+  &__img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border: 0;
+    border-radius: 20px;
+    width: 295px;
+  }
+}
