@@ -1,11 +1,12 @@
 import React from "react";
-import Header from "./components/Header/Header";
+import Header from "./components/header/Header";
 import "./App.scss";
 import Banner from "./components/banner/Banner";
-import About from "./components/About/About";
+import About from "./components/about/About";
 import Skills from "./components/skills/Skills";
 import Portfolio from "./components/portfolio/Portfolio";
 import Footer from "./components/footer/Footer";
+import Accordian from "./components/accordian/Accordian";
 
 export default function App() {
   return (
@@ -16,6 +17,9 @@ export default function App() {
         <About />
         <Skills />
         <Portfolio />
+
+        <Accordian />
+
         <Footer />
       </div>
     </>

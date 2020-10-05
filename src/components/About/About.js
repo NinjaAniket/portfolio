@@ -16,7 +16,7 @@ export default function About() {
         <div>
           <h2 className="about__subtitle">I' am Aniket Nagapure</h2>
           <span className="about__profession">
-            React/React Native developer
+            Passionate React/React Native developer
           </span>
           <p className="about__text">
             With 2.5+ years of Experience in building SPA web app and Mobile
@@ -47,6 +47,13 @@ export default function About() {
               className="about__social-icon"
             >
               <i class="bx bxl-youtube"></i>
+            </a>
+            <a
+              href="https://twitter.com/ireactninja"
+              target="_blank"
+              className="about__social-icon"
+            >
+              <i class="bx bxl-twitter"></i>
             </a>
           </div>
         </div>

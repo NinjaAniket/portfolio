@@ -14,22 +14,22 @@ export default function Footer() {
           <h2 className="footer__title">EXPLORE</h2>
           <ul>
             <li>
-              <a href="" id="home" className="footer__link">
+              <a href="#home" id="home" className="footer__link">
                 Home
               </a>
             </li>
             <li>
-              <a href="" id="home" className="footer__link">
+              <a href="#about" id="about" className="footer__link">
                 About
               </a>
             </li>
             <li>
-              <a href="" id="home" className="footer__link">
+              <a href="#skills" id="skills" className="footer__link">
                 Skills
               </a>
             </li>
             <li>
-              <a href="" id="home" className="footer__link">
+              <a href="#portfolio" id="portfolio" className="footer__link">
                 Portfolio
               </a>
             </li>
@@ -51,6 +51,14 @@ export default function Footer() {
             className="footer__social"
           >
             <i class="bx bxl-youtube"></i>
+          </a>
+
+          <a
+            href="https://www.twitter.com/ianiketnagapure"
+            target="_blank"
+            className="footer__social"
+          >
+            <i class="bx bxl-twitter"></i>
           </a>
         </div>
       </div>

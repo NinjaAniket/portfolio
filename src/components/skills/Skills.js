@@ -18,7 +18,6 @@ export default function Skills() {
 
           <h3 className="skills__subtitle">Mobile Frameworks</h3>
           <span className="skills__name">React Native</span>
-          <span className="skills__name">Redux</span>
 
           <span className="skills__name">Native Base</span>
           <span className="skills__name">React Native Elements </span>
