@@ -41,6 +41,8 @@ export default function Footer() {
           <a
             href="https://github.com/NinjaAniket"
             target="_blank"
+            without
+            rel="noopener noreferrer"
             className="footer__social"
           >
             <i className="bx bxl-github"></i>
@@ -48,6 +50,8 @@ export default function Footer() {
           <a
             href="https://www.youtube.com/channel/UCdRbFtfBUJGwWMaTFfFsxTg"
             target="_blank"
+            without
+            rel="noopener noreferrer"
             className="footer__social"
           >
             <i class="bx bxl-youtube"></i>
@@ -56,6 +60,8 @@ export default function Footer() {
           <a
             href="https://www.twitter.com/ianiketnagapure"
             target="_blank"
+            without
+            rel="noopener noreferrer"
             className="footer__social"
           >
             <i class="bx bxl-twitter"></i>

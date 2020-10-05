@@ -19,12 +19,16 @@ export default function Portfolio() {
                   href="https://jovial-gates-1df974.netlify.app/"
                   className="portfolio__link-name"
                   target="_blank"
+                  without
+                  rel="noopener noreferrer"
                 >
                   Live Demo
                 </a>
                 <a
                   href="https://github.com/NinjaAniket/react-redux-ecom"
                   target="_blank"
+                  without
+                  rel="noopener noreferrer"
                   className="portfolio__link-name"
                 >
                   Github Link
@@ -43,6 +47,8 @@ export default function Portfolio() {
                 href="https://twitter-clone-b7d28.web.app/"
                 className="portfolio__link-name"
                 target="_blank"
+                without
+                rel="noopener noreferrer"
               >
                 Live Demo
               </a>
@@ -50,6 +56,8 @@ export default function Portfolio() {
                 href="https://github.com/NinjaAniket/twitter-clone-react"
                 target="_blank"
                 className="portfolio__link-name"
+                without
+                rel="noopener noreferrer"
               >
                 Github Link
               </a>
@@ -67,12 +75,16 @@ export default function Portfolio() {
                 href="https://vigorous-yonath-743af2.netlify.app/"
                 className="portfolio__link-name"
                 target="_blank"
+                without
+                rel="noopener noreferrer"
               >
                 Live Demo
               </a>
               <a
                 href="https://github.com/NinjaAniket/ecom-responsive-landing-page"
                 target="_blank"
+                without
+                rel="noopener noreferrer"
                 className="portfolio__link-name"
               >
                 Github Link
@@ -94,29 +106,14 @@ export default function Portfolio() {
                 href="https://www.uishades.com/"
                 className="portfolio__link-name"
                 target="_blank"
+                without
+                rel="noopener noreferrer"
               >
                 Live Demo
               </a>
             </div>
           </div>
         </div>
-        {/* 
-        <div className="portfolio__img">
-          <img src={require("../../img/pr-5.png")} alt="" />
-
-          <div className="portfolio__link">
-            <div className="portfolio__card">
-              <p>Client Project: Dashboard that tracks</p>
-              <a
-                href="https://www.uishades.com/"
-                className="portfolio__link-name"
-                target="_blank"
-              >
-                Live Demo
-              </a>
-            </div>
-          </div>
-        </div> */}
       </div>
     </section>
   );

@@ -11,8 +11,9 @@ const data = [
       "<p> Sure, Email: aniketvnagapure@gmail.com  Phone No: +91 8976893385</p>",
   },
   {
-    title: "Where can I found your Resume?",
-    content: "<p> this is a content </p>",
+    title: "Where can I find your Resume?",
+    content:
+      "<p><a target='_blank' href='https://drive.google.com/file/d/1E4m3vQgrL7NDCNea8GlCP00JF_zmBrys/view?usp=sharing'>Here</a> </p>",
   },
   {
     title: "Where are your other projects apart from portfolio section?",

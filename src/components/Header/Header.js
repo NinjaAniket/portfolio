@@ -6,7 +6,7 @@ export default function Header() {
     <header className="header">
       <div className="nav bd-grid">
         <div>
-          <a href="" className="nav__logo">
+          <a href="#home" className="nav__logo">
             Aniket Nagapure
           </a>
         </div>

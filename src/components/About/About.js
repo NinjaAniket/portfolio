@@ -30,6 +30,9 @@ export default function About() {
           <div className="about__social">
             <a
               href="https://www.linkedin.com/in/aniketnagapure/"
+              target="_blank"
+              without
+              rel="noopener noreferrer"
               className="about__social-icon"
             >
               <i className="bx bxl-linkedin"></i>
@@ -37,6 +40,8 @@ export default function About() {
             <a
               href="https://github.com/NinjaAniket"
               target="_blank"
+              without
+              rel="noopener noreferrer"
               className="about__social-icon"
             >
               <i className="bx bxl-github"></i>
@@ -44,6 +49,8 @@ export default function About() {
             <a
               href="https://www.youtube.com/channel/UCdRbFtfBUJGwWMaTFfFsxTg"
               target="_blank"
+              without
+              rel="noopener noreferrer"
               className="about__social-icon"
             >
               <i class="bx bxl-youtube"></i>
@@ -51,6 +58,8 @@ export default function About() {
             <a
               href="https://twitter.com/ireactninja"
               target="_blank"
+              without
+              rel="noopener noreferrer"
               className="about__social-icon"
             >
               <i class="bx bxl-twitter"></i>

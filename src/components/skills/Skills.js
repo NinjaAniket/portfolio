@@ -11,6 +11,7 @@ export default function Skills() {
           <span className="skills__name">React</span>
           <span className="skills__name">Javascript(es6+)</span>
           <span className="skills__name">Redux</span>
+          <span className="skills__name">debugging with dev tools</span>
 
           <span className="skills__name">Material UI</span>
           <span className="skills__name">Bootstrap</span>

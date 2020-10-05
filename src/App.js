@@ -17,9 +17,7 @@ export default function App() {
         <About />
         <Skills />
         <Portfolio />
-
         <Accordian />
-
         <Footer />
       </div>
     </>
