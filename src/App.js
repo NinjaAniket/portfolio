@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./App.scss";
+import "./app.scss";
 
 import Header from "./components/header/header";
 import Banner from "./components/banner/banner";
