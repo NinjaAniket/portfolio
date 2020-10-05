@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NinjaAniket/portfolio/static/css/main.4203a644.chunk.css",
+    "main.js": "/NinjaAniket/portfolio/static/js/main.61d72f08.chunk.js",
+    "main.js.map": "/NinjaAniket/portfolio/static/js/main.61d72f08.chunk.js.map",
+    "runtime-main.js": "/NinjaAniket/portfolio/static/js/runtime-main.4bac587d.js",
+    "runtime-main.js.map": "/NinjaAniket/portfolio/static/js/runtime-main.4bac587d.js.map",
+    "static/js/2.5886da71.chunk.js": "/NinjaAniket/portfolio/static/js/2.5886da71.chunk.js",
+    "static/js/2.5886da71.chunk.js.map": "/NinjaAniket/portfolio/static/js/2.5886da71.chunk.js.map",
+    "index.html": "/NinjaAniket/portfolio/index.html",
+    "precache-manifest.9f9f1e8547eef64d0ffadbb14a5889e8.js": "/NinjaAniket/portfolio/precache-manifest.9f9f1e8547eef64d0ffadbb14a5889e8.js",
+    "service-worker.js": "/NinjaAniket/portfolio/service-worker.js",
+    "static/css/main.4203a644.chunk.css.map": "/NinjaAniket/portfolio/static/css/main.4203a644.chunk.css.map",
+    "static/js/2.5886da71.chunk.js.LICENSE.txt": "/NinjaAniket/portfolio/static/js/2.5886da71.chunk.js.LICENSE.txt",
+    "static/media/design.jpg": "/NinjaAniket/portfolio/static/media/design.abbf56e9.jpg",
+    "static/media/pr-1.png": "/NinjaAniket/portfolio/static/media/pr-1.680cadf3.png",
+    "static/media/pr-2.png": "/NinjaAniket/portfolio/static/media/pr-2.251781c9.png",
+    "static/media/pr-3.png": "/NinjaAniket/portfolio/static/media/pr-3.4277a155.png",
+    "static/media/pr-4.png": "/NinjaAniket/portfolio/static/media/pr-4.febe4a75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bac587d.js",
+    "static/js/2.5886da71.chunk.js",
+    "static/css/main.4203a644.chunk.css",
+    "static/js/main.61d72f08.chunk.js"
+  ]
+}
