@@ -13,7 +13,7 @@ const data = [
   {
     title: "Where can I find your Resume?",
     content:
-      "<p><a target='_blank' href='https://drive.google.com/file/d/1E4m3vQgrL7NDCNea8GlCP00JF_zmBrys/view?usp=sharing'>Here</a> </p>",
+      "<p><a target='_blank' href='https://drive.google.com/file/d/13CTZ4V7EUPYgTSYHBZpYZ9vpRlmRiW3M/view?usp=sharing'>Here</a> </p>",
   },
   {
     title: "Where are your other projects apart from portfolio section?",
