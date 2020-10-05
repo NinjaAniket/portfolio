@@ -1,8 +1,8 @@
 import React from "react";
 import data from "../../assets/accordian-data";
-import AccordianContent from "./Accordian-Content";
+import AccordianContent from "./accordian-content";
 
-import "./Accordian.scss";
+import "./accordian.scss";
 
 function Accordion(props) {
   return (

@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import Chevron from "../chevron/Chevron";
+import Chevron from "../chevron/chevron";
 
 export default function AccordianContent(props) {
   const [setActive, setActiveState] = useState("");

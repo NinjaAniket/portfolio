@@ -1,5 +1,6 @@
 import React from "react";
-import "./Skills.scss";
+import "./skills.scss";
+
 export default function Skills() {
   return (
     <div className="skills section" id="skills">

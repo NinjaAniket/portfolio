@@ -2,13 +2,13 @@ import React from "react";
 
 import "./App.scss";
 
-import Header from "./components/header/Header";
-import Banner from "./components/banner/Banner";
-import About from "./components/about/About";
-import Skills from "./components/skills/Skills";
-import Portfolio from "./components/portfolio/Portfolio";
-import Footer from "./components/footer/Footer";
-import Accordian from "./components/accordian/Accordian";
+import Header from "./components/header/header";
+import Banner from "./components/banner/banner";
+import About from "./components/about/about";
+import Skills from "./components/skills/skills";
+import Portfolio from "./components/portfolio/portfolio";
+import Footer from "./components/footer/footer";
+import Accordian from "./components/accordian/accordian";
 
 export default function App() {
   return (
