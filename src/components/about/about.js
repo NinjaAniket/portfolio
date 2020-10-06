@@ -56,7 +56,7 @@ export default function About() {
               <i class="bx bxl-youtube"></i>
             </a>
             <a
-              href="https://twitter.com/ireactninja"
+              href="https://twitter.com/ianiketnagapure"
               target="_blank"
               without
               rel="noopener noreferrer"
