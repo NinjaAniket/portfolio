@@ -16,7 +16,7 @@ export default function Portfolio() {
               <div className="portfolio__card">
                 <p>Ecommerce Website Built with React/Redux</p>
                 <a
-                  href="https://jovial-gates-1df974.netlify.app/"
+                  href="https://ecommerce-react-redux.netlify.app/"
                   className="portfolio__link-name"
                   target="_blank"
                   without
@@ -72,7 +72,7 @@ export default function Portfolio() {
             <div className="portfolio__card">
               <p>Responsive Landing page with grid & Flexbox</p>
               <a
-                href="https://vigorous-yonath-743af2.netlify.app/"
+                href="https://shoe-landing-page.netlify.app/"
                 className="portfolio__link-name"
                 target="_blank"
                 without
